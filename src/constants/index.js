@@ -115,29 +115,17 @@ const technologies = [
 ];
 
 const experiences = [
+
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "March 2020 - April 2021",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    title: "Free-Lance Web Developer",
+    company_name: "RayDunn Web Designs",
+    
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "July 2023- present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "I am lead developer for this company that only has two small business websites",
+      "One Website was created with Static HTML, CSS, and Javascript pages while the other uses the Bootstrap framework.",
+      "Both ",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
