@@ -21,6 +21,9 @@ module.exports = {
       backgroundImage: {
         "hero-pattern": "url('/src/assets/herobg.png')",
       },
+      logo: {
+        "logo": "url('/public/logo-color.png')",
+      },
     },
   },
   plugins: [],
